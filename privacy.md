@@ -1,23 +1,23 @@
 ---
 layout: default
-title: Privacy Policy — Crux
+title: Privacy Policy — Corvo
 ---
 
 # Privacy Policy
 
-**Last updated: March 2026**
+**Last updated: April 2026**
 
 ---
 
 ## Overview
 
-Crux is built on a single principle: your text is yours. The app is designed from the ground up to process everything locally on your device, with no external communication of any kind.
+Corvo is built on a single principle: your text is yours. The app is designed from the ground up to process everything locally on your device, with no external communication of any kind.
 
 ---
 
 ## Data Collection
 
-**Crux collects no data.** This includes:
+**Corvo collects no data.** This includes:
 
 - No personal information
 - No usage analytics
@@ -35,7 +35,7 @@ All summarization is performed entirely on your iPhone using Apple's FoundationM
 
 ## Camera & Photo Library
 
-Crux requests access to your camera and photo library solely to allow you to scan documents and import images for text extraction. This content is processed locally and is never stored, uploaded, or shared.
+Corvo requests access to your camera and photo library solely to allow you to scan documents and import images for text extraction. This content is processed locally and is never stored, uploaded, or shared.
 
 ---
 
@@ -47,19 +47,19 @@ Summaries you choose to save are stored locally on your device using Apple's Swi
 
 ## Third-Party Services
 
-Crux uses no third-party SDKs, analytics tools, advertising networks, or external APIs. There are no third parties with access to any data.
+Corvo uses no third-party SDKs, analytics tools, advertising networks, or external APIs. There are no third parties with access to any data.
 
 ---
 
 ## Children's Privacy
 
-Crux does not collect any data from any users, including children. The app is rated 4+ on the App Store.
+Corvo does not collect any data from any users, including children. The app is rated 4+ on the App Store.
 
 ---
 
 ## Changes to This Policy
 
-If this policy changes in a future version of Crux, the updated policy will be posted at this URL with a revised date.
+If this policy changes in a future version of Corvo, the updated policy will be posted at this URL with a revised date.
 
 ---
 
@@ -69,4 +69,4 @@ Questions about privacy? Contact us at **[parhamkarbasi@icloud.com](mailto:parha
 
 ---
 
-*Crux is developed independently by Parham Kharbasi.*
+*Corvo is developed independently by Parham Karbasi.*
