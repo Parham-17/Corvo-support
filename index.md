@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Crux — Private AI Summarizer
+title: Corvo — Private AI Summarizer
 ---
 
 # Corvo
